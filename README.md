@@ -16,8 +16,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 **Reading**
 
-![Books](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fphotos%2Frow-of-books-on-a-shelf-multicolored-book-spines-stack-in-the-picture-id1222550815%3Fb%3D1%26k%3D20%26m%3D1222550815%26s%3D170667a%26w%3D0%26h%3DMTxBeBrrrYtdlpzhMpD1edwLYQf3OPgkNeDEgIzYJww%3D&imgrefurl=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fbooks&tbnid=-HMv_6w_SGUy1M&vet=12ahUKEwi459WBrqjzAhVjJH0KHQY8ARoQMygAegUIARDOAQ..i&docid=GEikSH4LWM6bxM&w=509&h=339&itg=1&q=book%20images&ved=2ahUKEwi459WBrqjzAhVjJH0KHQY8ARoQMygAegUIARDOAQ)
-
+![open book](https://user-images.githubusercontent.com/91563652/135566517-cd806f52-4638-429f-a87a-30cbe1709c8c.jpeg)
 
 **Video Games**
 
@@ -52,4 +51,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-![open book](https://user-images.githubusercontent.com/91563652/135566517-cd806f52-4638-429f-a87a-30cbe1709c8c.jpeg)
+
