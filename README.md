@@ -10,7 +10,23 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ```markdown
 **Reading & Sports**
-(https://user-images.githubusercontent.com/91563652/135560434-29853aff-cb56-4712-9bc2-43245dd588cf.png)
+
+[image](![image](https://user-images.githubusercontent.com/91563652/135560434-29853aff-cb56-4712-9bc2-43245dd588cf.png)
+
+
+
+
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+
 
 
 
