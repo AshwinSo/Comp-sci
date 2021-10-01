@@ -11,7 +11,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ```markdown
 **Reading & Sports**
 
-https://www.google.com/url?sa=i&url=http%3A%2F%2Fclipart-library.com%2Ffree-sports-clipart.html&psig=AOvVaw12dNV5DzrL-Lov3_heh4bj&ust=1633144783036000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDRjsqgqPMCFQAAAAAdAAAAABAO
 
 
 
